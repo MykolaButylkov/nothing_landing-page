@@ -2,7 +2,7 @@
 This is a landing page for selling goods of NOTHING company. It allows users to get acquainted and place an order for their products. The project utilizes the technology preprocessor Sass(SCSS), design of this page has been developed on BEM methodology, and also it has had optimized for mobile, laptop, and desktop screens.
 
 ## Demo
-You can see a live demo of this project [here](https://mykolabutylkov.github.io/kickstarter_landing-page/).
+You can see a live demo of this project [here](https://mykolabutylkov.github.io/nothing_landing-page/).
 
 ## Figma
 You can see the Figma design of this project [here](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&mode=design&t=4ssDtI0yzGp1rkNO-0).
